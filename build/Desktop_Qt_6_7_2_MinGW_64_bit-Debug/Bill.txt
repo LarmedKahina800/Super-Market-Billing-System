@@ -1,0 +1,2 @@
+Milk 2 10
+Bread 5 4
